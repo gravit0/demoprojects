@@ -4,6 +4,7 @@
 int main(int argc,char** argv)
 {
     int k = 0;
+    std::cout << "Print k:";
     std::cin >> k;
     for(int i=0;true;++i)
     {

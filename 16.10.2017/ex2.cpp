@@ -5,6 +5,7 @@ int main(int argc,char** argv)
 {
     std::string s1;
     std::list<int> nums;
+    std::cout << "Print number:";
     std::cin >> s1;
     int size = s1.size();
     int it = size;
